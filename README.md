@@ -8,7 +8,7 @@ I'm a Computer Science student at **Tunku Abdul Rahman University of Management 
 
 I enjoy building interactive software, games, and intelligent systems. My projects have given me hands on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
 
-I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real-world projects, and continue growing as a software developer.
+I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real world projects, and continue growing as a software developer.
 
 ---
 
