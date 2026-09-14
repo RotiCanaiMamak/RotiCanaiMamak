@@ -29,9 +29,7 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,dart,flutter,html)](https://skillicons.dev)
-
-`SQL`
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,dart,flutter,html,oracle)](https://skillicons.dev)
 
 ### Development Tools
 
@@ -57,7 +55,7 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 # 🚀 Featured Projects
 
-## 🎮 Trails of Emotions — 2D Side-Scrolling Platformer
+## Trails of Emotions — 2D Side-Scrolling Platformer
 
 **Unity · C# · 2D Physics · Procedural Generation**
 
@@ -67,16 +65,16 @@ The project combines gameplay programming, procedural generation, state-based sy
 
 ### Highlights
 
-- 🏃 Running, jumping, gliding, groundpounding, and zipline traversal
-- 🌍 Procedurally generated terrain chunks
-- 😡 Anxiety, Anger, and Sadness emotional biomes
-- ❤️ Dynamic Emotion Meter and state system
-- 🎯 Emotion-based gameplay modifiers
-- ⚙️ Runtime movement and emotion modifiers
-- 🪢 Runtime-generated ziplines
-- ✨ Biome-specific lighting, particles, materials, and visual effects
-- 🧩 ScriptableObject configuration
-- 🔄 Unity Event-driven system architecture
+- Running, jumping, gliding, groundpounding, and zipline traversal
+- Procedurally generated terrain chunks
+- Anxiety, Anger, and Sadness emotional biomes
+- Dynamic Emotion Meter and state system
+- Emotion-based gameplay modifiers
+- Runtime movement and emotion modifiers
+- Runtime-generated ziplines
+- Biome-specific lighting, particles, materials, and visual effects
+- ScriptableObject configuration
+- Unity Event-driven system architecture
 
 The project uses a modular architecture connecting **player performance, emotional state, gameplay difficulty, biome selection, and visual effects**.
 
@@ -84,7 +82,7 @@ The project uses a modular architecture connecting **player performance, emotion
 
 ---
 
-## 🧠 Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
+## Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
 
 **Game AI · Fuzzy Logic**
 
@@ -92,13 +90,13 @@ An endless runner project featuring a **dynamic difficulty adjustment system** b
 
 ### Highlights
 
-- 🧠 Mamdani fuzzy logic system
-- 📐 27 fuzzy rules
-- 🎮 Dynamic game difficulty
-- 🏃 Player skill estimation
-- 💥 Collision and near miss analysis
-- 🔄 Procedural obstacle generation
-- 📈 Difficulty adjustment based on gameplay behaviour
+- Mamdani fuzzy logic system
+- 27 fuzzy rules
+- Dynamic game difficulty
+- Player skill estimation
+- Collision and near miss analysis
+- Procedural obstacle generation
+- Difficulty adjustment based on gameplay behaviour
 
 The system explores how fuzzy logic can be used to create a more adaptive gameplay experience instead of relying on fixed difficulty levels.
 
@@ -106,7 +104,7 @@ The system explores how fuzzy logic can be used to create a more adaptive gamepl
 
 ---
 
-## 🚗 Automotive Service Management Mobile Application
+## Automotive Service Management Mobile Application
 
 **Flutter · Dart · Supabase**
 
@@ -114,16 +112,16 @@ A mobile application designed to manage the operations of an automotive workshop
 
 ### Features
 
-- 👤 Customer management
-- 🚗 Vehicle management
-- 🔧 Service history
-- 📅 Employee work scheduling
-- 📦 Spare part inventory
-- 🧾 Invoice management
-- 📊 Monthly revenue charts
-- 🖼️ Customer and vehicle image uploads
-- 🔎 Searchable records
-- ☁️ Supabase cloud backend
+- Customer management
+- Vehicle management
+- Service history
+- Employee work scheduling
+- Spare part inventory
+- Invoice management
+- Monthly revenue charts
+- Customer and vehicle image uploads
+- Searchable records
+- Supabase cloud backend
 
 The application uses relational data to connect customers, vehicles, service records, workers, schedules, inventory, and invoices.
 
@@ -131,7 +129,7 @@ The application uses relational data to connect customers, vehicles, service rec
 
 ---
 
-## 🎯 2D Game Framework & Projectile Puzzle Game
+## 2D Game Framework & Projectile Puzzle Game
 
 **C++ · DirectX 9 · FMOD · Win32 API**
 
@@ -139,26 +137,26 @@ A collaborative project focused on building a reusable **2D game framework** and
 
 ### Framework
 
-- 🎬 Scene management
-- 🎨 Sprite rendering
-- 🖱️ Input handling
-- 🔊 Audio management
-- 🖥️ UI systems
-- 🗺️ Level management
+- Scene management
+- Sprite rendering
+- Input handling
+- Audio management
+- UI systems
+- Level management
 
 ### Game
 
-- 🐦 Projectile-based gameplay
-- ⚙️ Physics
-- 💥 Collision detection
-- 🏆 Scoring system
-- 🎮 Multiple playable levels
+- Projectile-based gameplay
+- Physics
+- Collision detection
+- Scoring system
+- Multiple playable levels
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/2DGameFramework-ProjectilePuzzleGame)**
 
 ---
 
-## 🦊 Interactive OpenGL Character Modeller — Funtime Foxy
+## Interactive OpenGL Character Modeller — Funtime Foxy
 
 **C++ · OpenGL · Computer Graphics**
 
@@ -166,12 +164,12 @@ An interactive character modelling and graphics programming project focused on c
 
 ### Focus Areas
 
-- 🧊 3D object modelling
-- 🎨 OpenGL rendering
-- 💡 Lighting
-- 📷 Camera controls
-- 🖱️ Interactive model manipulation
-- 🧩 Graphics programming
+- 3D object modelling
+- OpenGL rendering
+- Lighting
+- Camera controls
+- Interactive model manipulation
+- Graphics programming
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/InteractiveOpenGLCharacterModeller-FuntimeFoxy)**
 
@@ -194,12 +192,12 @@ Relevant coursework:
 
 # 🌱 Currently Learning
 
-- 🎮 Advanced Unity & Game Development
-- 🤖 Artificial Intelligence & Computer Vision
-- 🧠 Game AI
-- 🖥️ Computer Graphics
-- 💻 Software Architecture & Design
-- ⚙️ Advanced C++ Programming
+- Advanced Unity & Game Development
+- Artificial Intelligence & Computer Vision
+- Game AI
+- Computer Graphics
+- Software Architecture & Design
+- Advanced C++ Programming
 
 ---
 
@@ -215,11 +213,11 @@ Relevant coursework:
 
 I'm currently looking for **internship opportunities** in areas such as:
 
-- 🎮 Game Development
-- 💻 Software Development
-- 🤖 Artificial Intelligence
-- 🖥️ Computer Graphics
-- 📱 Application Development
+- Game Development
+- Software Development
+- Artificial Intelligence
+- Computer Graphics
+- Application Development
 
 If you're interested in my work, feel free to explore my repositories or get in touch.
 
