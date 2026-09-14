@@ -25,31 +25,35 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,dart,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,dart,flutter,html)](https://skillicons.dev)
 
-### Game Development
+`SQL`
 
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+### Development Tools
 
-`DirectX 9` · `FMOD` · `Win32 API`
+[![My Skills](https://skillicons.dev/icons?i=unity,visualstudio,androidstudio,github,krita)](https://skillicons.dev)
 
-### Graphics & AI
+`Paint.NET`
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,jupyter)](https://skillicons.dev)
+### Graphics Programming
 
-`OpenGL` · `Computer Graphics` · `HOG-SVM` · `Fuzzy Logic`
+[![My Skills](https://skillicons.dev/icons?i=opengl)](https://skillicons.dev)
 
-### Application Development
+`DirectX 9` · `Win32 API` · `2D Sprite Rendering` · `Texture Mapping` · `Lighting` · `Camera Controls`
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,supabase)](https://skillicons.dev)
+### Artificial Intelligence
 
-### Tools
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,androidstudio,git,github,krita)](https://skillicons.dev)
+`CNNs` · `Test-Time Augmentation` · `Model Evaluation`
+
+### Software Practices
+
+`Object-Oriented Programming` · `Data Structures & Algorithms` · `Debugging` · `Technical Documentation` · `Git & Version Control`
 
 ---
 
