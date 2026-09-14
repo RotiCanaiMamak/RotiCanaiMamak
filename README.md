@@ -30,26 +30,21 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 ### Programming Languages
 
 <p align="left">
-  <a href="https://en.cppreference.com/cpp" target="_blank" rel="noreferrer">
+  <a href="https://en.cppreference.com/w/cpp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
   </a>
-
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
   </a>
-
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   </a>
-
   <a href="https://dev.java/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
   </a>
-
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
   </a>
@@ -61,71 +56,30 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
   </a>
-
   <a href="https://learn.microsoft.com/en-us/windows/win32/directx" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=directx" alt="DirectX" width="40" height="40"/>
   </a>
-
   <a href="https://www.fmod.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fmod" alt="FMOD" width="40" height="40"/>
   </a>
 </p>
 
-- 2D & 3D game development
-- Gameplay programming
-- 2D physics
-- Procedural generation
-- Game AI
-- Dynamic difficulty adjustment
-- Scene and level management
-- UI systems
-- Audio integration
-
-### Graphics Programming
+### Graphics & AI
 
 <p align="left">
   <a href="https://www.khronos.org/opengl/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL" width="40" height="40"/>
   </a>
-
-  <a href="https://learn.microsoft.com/en-us/windows/win32/directx" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=directx" alt="DirectX" width="40" height="40"/>
-  </a>
-</p>
-
-- OpenGL
-- DirectX 9
-- Win32 API
-- 2D sprite rendering
-- Texture mapping
-- Lighting
-- Camera systems
-- Graphics programming fundamentals
-
-### AI & Computer Vision
-
-<p align="left">
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
   </a>
-
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
   </a>
-
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
   </a>
 </p>
-
-- Convolutional Neural Networks (CNN)
-- TensorFlow
-- OpenCV
-- Image augmentation
-- Test-time augmentation
-- Model evaluation
-- Fuzzy Logic
-- Game AI
 
 ### Application Development
 
@@ -133,49 +87,30 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
   </a>
-
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
   </a>
 </p>
 
-- Cross platform mobile development
-- Database-driven applications
-- Backend integration
-- User interface development
-- Cloud database integration
-
-### Software & Tools
+### Tools
 
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
   </a>
-
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
   </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   </a>
-
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   </a>
-
   <a href="https://krita.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=krita" alt="Krita" width="40" height="40"/>
   </a>
 </p>
-
-- Visual Studio
-- Android Studio
-- Flutter
-- Supabase
-- FMOD
-- Krita
-- Paint.NET
 
 ---
 
