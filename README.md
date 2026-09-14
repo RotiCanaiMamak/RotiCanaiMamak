@@ -41,9 +41,7 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### Graphics Programming
 
-[![My Skills](https://skillicons.dev/icons?i=opengl)](https://skillicons.dev)
-
-`DirectX 9` · `Win32 API` · `2D Sprite Rendering` · `Texture Mapping` · `Lighting` · `Camera Controls`
+`OpenGL` · `DirectX 9` · `Win32 API` · `2D Sprite Rendering` · `Texture Mapping` · `Lighting` · `Camera Controls`
 
 ### Artificial Intelligence
 
