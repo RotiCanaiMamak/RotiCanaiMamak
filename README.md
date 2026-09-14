@@ -114,7 +114,7 @@ The project combines gameplay programming, procedural generation, state-based sy
 - 🧩 ScriptableObject configuration
 - 🔄 Unity Event-driven system architecture
 
-The project uses a modular architecture connecting **player performance, emotional state, gameplay difficulty, biome selection, and visual effects**. citeturn0view0
+The project uses a modular architecture connecting **player performance, emotional state, gameplay difficulty, biome selection, and visual effects**.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/TrailsOfEmotions-2DSidescrollingPlatformer)**
 
@@ -161,7 +161,7 @@ A mobile application designed to manage the operations of an automotive workshop
 - 🔎 Searchable records
 - ☁️ Supabase cloud backend
 
-The application uses relational data to connect customers, vehicles, service records, workers, schedules, inventory, and invoices. citeturn0view1
+The application uses relational data to connect customers, vehicles, service records, workers, schedules, inventory, and invoices.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/MobileApplication-AutomotiveServiceManagement)**
 
