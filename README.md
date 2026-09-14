@@ -29,88 +29,27 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### Programming Languages
 
-<p align="left">
-  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,dart,html)](https://skillicons.dev)
 
 ### Game Development
 
-<p align="left">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/directx" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=directx" alt="DirectX" width="40" height="40"/>
-  </a>
-  <a href="https://www.fmod.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fmod" alt="FMOD" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
+`DirectX 9` · `FMOD` · `Win32 API`
 
 ### Graphics & AI
 
-<p align="left">
-  <a href="https://www.khronos.org/opengl/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,jupyter)](https://skillicons.dev)
+
+`OpenGL` · `Computer Graphics` · `HOG-SVM` · `Fuzzy Logic`
 
 ### Application Development
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=flutter,supabase)](https://skillicons.dev)
 
 ### Tools
 
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://krita.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=krita" alt="Krita" width="40" height="40"/>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,androidstudio,git,github,krita)](https://skillicons.dev)
 
 ---
 
