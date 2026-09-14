@@ -29,17 +29,47 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### Programming Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="left">
+  <a href="https://en.cppreference.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  </a>
+
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  </a>
+</p>
 
 ### Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C%23](https://img.shields.io/badge/Unity%20C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<p align="left">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/windows/win32/directx" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=directx" alt="DirectX" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.fmod.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fmod" alt="FMOD" width="40" height="40"/>
+  </a>
+</p>
 
 - 2D & 3D game development
 - Gameplay programming
@@ -53,7 +83,15 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### Graphics Programming
 
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+<p align="left">
+  <a href="https://www.khronos.org/opengl/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opengl" alt="OpenGL" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/windows/win32/directx" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=directx" alt="DirectX" width="40" height="40"/>
+  </a>
+</p>
 
 - OpenGL
 - DirectX 9
@@ -66,6 +104,20 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 ### AI & Computer Vision
 
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+  </a>
+
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
+  </a>
+
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
+  </a>
+</p>
+
 - Convolutional Neural Networks (CNN)
 - TensorFlow
 - OpenCV
@@ -75,11 +127,47 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 - Fuzzy Logic
 - Game AI
 
+### Application Development
+
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+  </a>
+
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
+  </a>
+</p>
+
+- Cross platform mobile development
+- Database-driven applications
+- Backend integration
+- User interface development
+- Cloud database integration
+
 ### Software & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="left">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <a href="https://krita.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=krita" alt="Krita" width="40" height="40"/>
+  </a>
+</p>
 
 - Visual Studio
 - Android Studio
