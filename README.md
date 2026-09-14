@@ -30,7 +30,7 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 ### Programming Languages
 
 <p align="left">
-  <a href="https://en.cppreference.com/w/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
