@@ -6,9 +6,9 @@
 
 I'm a Computer Science student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**, specializing in **Interactive Software Technology**.
 
-I enjoy building interactive software, games, and intelligent systems. My projects have given me hands-on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
+I enjoy building interactive software, games, and intelligent systems. My projects have given me hands on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
 
-I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real-world projects, and continue growing as a software developer.
+I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real world projects, and continue growing as a software developer.
 
 ---
 
@@ -55,9 +55,9 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 # 🚀 Featured Projects
 
-## 🎮 Trails of Emotions — 2D Platformer
+## 🎮 Trails of Emotions — 2D Side-Scrolling Platformer
 
-**Unity · C# · Procedural Generation**
+**Unity · C# · 2D Physics · Procedural Generation**
 
 A 2D side-scrolling platformer featuring emotional biomes, dynamic gameplay modifiers, procedural terrain, and modular game systems.
 
@@ -65,7 +65,7 @@ A 2D side-scrolling platformer featuring emotional biomes, dynamic gameplay modi
 
 ---
 
-## 🧠 Flow Driven Endless Runner — Dynamic Difficulty
+## 🧠 Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
 
 **Game AI · Fuzzy Logic**
 
@@ -75,7 +75,7 @@ An endless runner using a **Mamdani fuzzy logic system with 27 rules** to dynami
 
 ---
 
-## 🚗 Automotive Service Management
+## 🚗 Automotive Service Management Mobile Application
 
 **Flutter · Dart · Supabase**
 
