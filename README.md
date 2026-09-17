@@ -6,9 +6,9 @@
 
 I'm a Computer Science student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**, specializing in **Interactive Software Technology**.
 
-I enjoy building interactive software, games, and intelligent systems. My projects have given me hands on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
+I enjoy building interactive software, games, and intelligent systems. My projects have given me hands-on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
 
-I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real world projects, and continue growing as a software developer.
+I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real-world projects, and continue growing as a software developer.
 
 ---
 
@@ -55,121 +55,61 @@ I'm currently looking for an **internship opportunity** where I can apply my tec
 
 # 🚀 Featured Projects
 
-## Trails of Emotions — 2D Side-Scrolling Platformer
+## 🎮 Trails of Emotions — 2D Platformer
 
-**Unity · C# · 2D Physics · Procedural Generation**
+**Unity · C# · Procedural Generation**
 
-A relaxing 2D side-scrolling platformer where the game world changes according to the player's emotional state.
-
-The project combines gameplay programming, procedural generation, state-based systems, physics, and visual effects.
-
-### Highlights
-
-- Running, jumping, gliding, groundpounding, and zipline traversal
-- Procedurally generated terrain chunks
-- Anxiety, Anger, and Sadness emotional biomes
-- Dynamic Emotion Meter and state system
-- Emotion-based gameplay modifiers
-- Runtime movement and emotion modifiers
-- Runtime-generated ziplines
-- Biome-specific lighting, particles, materials, and visual effects
-- ScriptableObject configuration
-- Unity Event-driven system architecture
-
-The project uses a modular architecture connecting **player performance, emotional state, gameplay difficulty, biome selection, and visual effects**.
+A 2D side-scrolling platformer featuring emotional biomes, dynamic gameplay modifiers, procedural terrain, and modular game systems.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/TrailsOfEmotions-2DSidescrollingPlatformer)**
 
 ---
 
-## Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
+## 🧠 Flow Driven Endless Runner — Dynamic Difficulty
 
 **Game AI · Fuzzy Logic**
 
-An endless runner project featuring a **dynamic difficulty adjustment system** based on player performance.
-
-### Highlights
-
-- Mamdani fuzzy logic system
-- 27 fuzzy rules
-- Dynamic game difficulty
-- Player skill estimation
-- Collision and near miss analysis
-- Procedural obstacle generation
-- Difficulty adjustment based on gameplay behaviour
-
-The system explores how fuzzy logic can be used to create a more adaptive gameplay experience instead of relying on fixed difficulty levels.
+An endless runner using a **Mamdani fuzzy logic system with 27 rules** to dynamically adjust difficulty based on player performance.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/FuzzyLogicDynamicDifficultyAdjustment-FlowDrivenEndlessRunner)**
 
 ---
 
-## Automotive Service Management Mobile Application
+## 🚗 Automotive Service Management
 
 **Flutter · Dart · Supabase**
 
-A mobile application designed to manage the operations of an automotive workshop.
-
-### Features
-
-- Customer management
-- Vehicle management
-- Service history
-- Employee work scheduling
-- Spare part inventory
-- Invoice management
-- Monthly revenue charts
-- Customer and vehicle image uploads
-- Searchable records
-- Supabase cloud backend
-
-The application uses relational data to connect customers, vehicles, service records, workers, schedules, inventory, and invoices.
+A mobile application for managing **customers, vehicles, services, employees, inventory, invoices, and workshop scheduling**.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/MobileApplication-AutomotiveServiceManagement)**
 
 ---
 
-## 2D Game Framework & Projectile Puzzle Game
+## 🚦 Malaysian Road Sign Recognition
+
+**Python · YOLOv8 · TensorFlow · OpenCV**
+
+An AI project for Malaysian road sign recognition using **CNNs, YOLOv8, HOG-SVM, and adverse-condition data augmentation**.
+
+🔗 **[View Repository](https://github.com/blping/AI-MalaysiaRoadSignRecognition)**
+
+---
+
+## 🎯 2D Game Framework & Projectile Puzzle Game
 
 **C++ · DirectX 9 · FMOD · Win32 API**
 
-A collaborative project focused on building a reusable **2D game framework** and using it to develop a projectile-based puzzle game.
-
-### Framework
-
-- Scene management
-- Sprite rendering
-- Input handling
-- Audio management
-- UI systems
-- Level management
-
-### Game
-
-- Projectile-based gameplay
-- Physics
-- Collision detection
-- Scoring system
-- Multiple playable levels
+A reusable 2D game framework featuring **scene management, rendering, input, audio, UI, physics, collision detection, and level management**.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/2DGameFramework-ProjectilePuzzleGame)**
 
 ---
 
-## Interactive OpenGL Character Modeller — Funtime Foxy
+## 🦊 Interactive OpenGL Character Modeller — Funtime Foxy
 
 **C++ · OpenGL · Computer Graphics**
 
-An interactive character modelling and graphics programming project focused on creating and manipulating a 3D character using OpenGL.
-
-### Focus Areas
-
-- 3D object modelling
-- OpenGL rendering
-- Lighting
-- Camera controls
-- Interactive model manipulation
-- Graphics programming
+A 3D character modelling project featuring **OpenGL rendering, lighting, camera controls, and interactive model manipulation**.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/InteractiveOpenGLCharacterModeller-FuntimeFoxy)**
 
@@ -203,7 +143,7 @@ Relevant coursework:
 
 # 📫 Contact
 
-📧 **Email:** [tongzichen1122@gmail.com](mailto:tongzichen1122@gmail.com)
+📧 **Email:** tongzichen1122@gmail.com
 
 💼 **GitHub:** [@RotiCanaiMamak](https://github.com/RotiCanaiMamak)
 
@@ -211,7 +151,7 @@ Relevant coursework:
 
 ## 🤝 Open to Opportunities
 
-I'm currently looking for **internship opportunities** in areas such as:
+I'm currently looking for **internship opportunities** in:
 
 - Game Development
 - Software Development
