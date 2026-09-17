@@ -4,11 +4,7 @@
 🎮 **Game Development | AI | Computer Graphics | Software Development**  
 📍 Malaysia
 
-I'm a Computer Science student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**, specializing in **Interactive Software Technology**.
-
-I enjoy building interactive software, games, and intelligent systems. My projects have given me hands on experience with **Unity, C#, C++, Python, OpenGL, DirectX, Flutter, and AI techniques**.
-
-I'm currently looking for an **internship opportunity** where I can apply my technical and creative skills, contribute to real world projects, and continue growing as a software developer.
+I'm a Computer Science student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**, specializing in **Interactive Software Technology**. I have experience in Unity, C#, C++, Python and AI development. Seeking an internship to apply technical creative skills in a professional environment.
 
 ---
 
