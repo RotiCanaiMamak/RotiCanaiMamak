@@ -35,6 +35,7 @@ I'm a Computer Science student at **Tunku Abdul Rahman University of Management 
 ### Graphics Programming
 
 `OpenGL` · `DirectX 9`
+
 `Win32 API` · `2D Sprite Rendering` · `Texture Mapping` · `Lighting` · `Camera Controls`
 
 ### Artificial Intelligence
