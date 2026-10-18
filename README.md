@@ -11,7 +11,7 @@ I'm a Computer Science student at **Tunku Abdul Rahman University of Management 
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Computer Science (Honours) in **Interactive Software Technology**
-- 📊 CGPA: **3.8247**
+- 📊 CGPA: **3.8368**
 - 🎮 Interested in **Game Development & Interactive Software**
 - 🤖 Interested in **Artificial Intelligence & Computer Vision**
 - 🖥️ Interested in **Software Development & Architecture Design**
