@@ -17,7 +17,6 @@ I'm a Computer Science student at **Tunku Abdul Rahman University of Management 
 - 🖥️ Interested in **Software Development & Architecture Design**
 - 🧠 Enjoy solving problems involving algorithms, systems, and gameplay mechanics
 - 🌱 Currently expanding my skills through academic and personal projects
-- 💼 **Open to internship opportunities**
 
 ---
 
