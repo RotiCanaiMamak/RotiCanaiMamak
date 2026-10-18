@@ -119,7 +119,7 @@ A 3D character modelling project featuring **OpenGL rendering, lighting, camera 
 **Bachelor in Computer Science (Honours) (Interactive Software Technology)**
 
 📅 Expected Graduation: **June 2027**  
-📊 CGPA: **3.8247**
+📊 CGPA: **3.8368**
 
 Relevant coursework:
 
