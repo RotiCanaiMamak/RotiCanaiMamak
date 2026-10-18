@@ -52,26 +52,6 @@ I'm a Computer Science student at **Tunku Abdul Rahman University of Management 
 
 # 🚀 Featured Projects
 
-## 🎮 Trails of Emotions — 2D Side-Scrolling Platformer
-
-**Unity · C# · 2D Physics · Procedural Generation**
-
-A 2D side-scrolling platformer featuring emotional biomes, dynamic gameplay modifiers, procedural terrain, and modular game systems.
-
-🔗 **[View Repository](https://github.com/RotiCanaiMamak/TrailsOfEmotions-2DSidescrollingPlatformer)**
-
----
-
-## 🧠 Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
-
-**Game AI · Fuzzy Logic**
-
-An endless runner using a **Mamdani fuzzy logic system with 27 rules** to dynamically adjust difficulty based on player performance.
-
-🔗 **[View Repository](https://github.com/RotiCanaiMamak/FuzzyLogicDynamicDifficultyAdjustment-FlowDrivenEndlessRunner)**
-
----
-
 ## 🚗 Automotive Service Management Mobile Application
 
 **Flutter · Dart · Supabase**
@@ -99,6 +79,25 @@ An AI project for Malaysian road sign recognition using **CNNs, YOLOv8, HOG-SVM,
 A reusable 2D game framework featuring **scene management, rendering, input, audio, UI, physics, collision detection, and level management**.
 
 🔗 **[View Repository](https://github.com/RotiCanaiMamak/2DGameFramework-ProjectilePuzzleGame)**
+
+---
+## 🎮 Trails of Emotions — 2D Side-Scrolling Platformer
+
+**Unity · C# · 2D Physics · Procedural Generation**
+
+A 2D side-scrolling platformer featuring emotional biomes, dynamic gameplay modifiers, procedural terrain, and modular game systems.
+
+🔗 **[View Repository](https://github.com/RotiCanaiMamak/TrailsOfEmotions-2DSidescrollingPlatformer)**
+
+---
+
+## 🧠 Flow Driven Endless Runner — Fuzzy Logic Dynamic Difficulty
+
+**Game AI · Fuzzy Logic**
+
+An endless runner using a **Mamdani fuzzy logic system with 27 rules** to dynamically adjust difficulty based on player performance.
+
+🔗 **[View Repository](https://github.com/RotiCanaiMamak/FuzzyLogicDynamicDifficultyAdjustment-FlowDrivenEndlessRunner)**
 
 ---
 
