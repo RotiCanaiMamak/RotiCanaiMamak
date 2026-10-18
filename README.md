@@ -131,7 +131,6 @@ Relevant coursework:
 - Advanced Unity & Game Development
 - Artificial Intelligence & Computer Vision
 - Game AI
-- Computer Graphics
 - Software Architecture & Design
 - Advanced C++ Programming
 
@@ -152,7 +151,6 @@ I'm currently looking for **internship opportunities** in:
 - Game Development
 - Software Development
 - Artificial Intelligence
-- Computer Graphics
 - Application Development
 
 If you're interested in my work, feel free to explore my repositories or get in touch.
