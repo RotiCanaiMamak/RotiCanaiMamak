@@ -1,7 +1,7 @@
 # Hi, I'm Tong Zi Chen 👋
 
 🎓 **Computer Science Student | Interactive Software Technology**  
-🎮 **Game Development | AI | Computer Graphics | Software Development**  
+🎮 **Game Development | Software Development | Software Architecture | Artificial Intelligence**  
 📍 Malaysia
 
 I'm a Computer Science student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**, specializing in **Interactive Software Technology**. I have experience in **Unity**, **C#**, **C++**, **Python** and **AI development**. Seeking an internship to apply technical creative skills in a professional environment.
