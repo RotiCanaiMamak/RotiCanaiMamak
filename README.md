@@ -116,7 +116,7 @@ A 3D character modelling project featuring **OpenGL rendering, lighting, camera 
 
 ### Tunku Abdul Rahman University of Management and Technology
 
-**Bachelor of Computer Science (Honours) in Interactive Software Technology**
+**Bachelor in Computer Science (Honours) (Interactive Software Technology)**
 
 📅 Expected Graduation: **June 2027**  
 📊 CGPA: **3.8247**
